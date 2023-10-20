@@ -1,0 +1,3 @@
+/*
+The GUI for the application i.e file explorer
+*/
