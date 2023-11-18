@@ -2,10 +2,18 @@
 
 ## Features
 
-* Create Folders
-* Open Folders
-* Delete Folders
-* Encrypt/Decrypt Folders
-* Change Content Of Folders
+* Create Files
+* Read Files
+* Write Files
+* Delete Files
+* Create Directories
+* Delete Directories
+* Search Directory
+* Rename Directory
+* Sort Directories
+* Change Current Directory
+* Copy and move Directories
+* Display Filesystem Content
+* Format FS
 
 ***
